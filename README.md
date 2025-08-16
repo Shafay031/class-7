@@ -6,10 +6,6 @@ drink-menu-switch-case/
 ├── README.md
 ├── switch_menu.c
 └── .gitignore
-
-### 📄 README.md
-
-`markdown
 # Drink Menu - Switch Case Example in C
 
 This simple C program demonstrates the use of the `switch` statement to simulate a drink selection menu. The user is prompted to enter a number corresponding to their drink choice.
